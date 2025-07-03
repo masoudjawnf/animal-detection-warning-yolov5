@@ -63,9 +63,9 @@ This system improves upon methods used in the IEEE paper:
 | HOG + Cascade Classifier | ❌ Low             | ❌ Slow                | ❌ Weak     |
 | YOLOv5s (Ours)           | ✅ High            | ✅ Real-Time           | ✅ Strong   |
 
-<p align="center">
-  <img src="https://github.com/masoudjawnf/animal-detection-warning-yolov5/blob/main/HOG%2BCascade%20Vs%20YOLOv5%20.jpg?raw=true" width="500"/>
-</p>
+<img src="https://github.com/masoudjawnf/animal-detection-warning-yolov5/blob/main/HOG%2BCascade%20Vs%20YOLOv5%20.jpg?raw=true" width="500" style="margin-left:20px; display:block;" />
+
+
 
 
 ---
