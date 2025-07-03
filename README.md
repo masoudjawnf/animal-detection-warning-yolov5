@@ -10,15 +10,6 @@ This system aims to reduce vehicle-animal collisions by detecting animals and es
 
 > _"A Practical Animal Detection and Collision Avoidance System Using Computer Vision Technique"_
 
-<p align="center">
-  <video width="600" controls>
-    <source src="https://github.com/masoudjawnf/animal-detection-warning-yolov5/raw/main/output.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-
-
 ## 🚀 How It Works
 
 This animal detection and warning assistant system works through the following pipeline:
