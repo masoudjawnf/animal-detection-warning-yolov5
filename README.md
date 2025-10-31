@@ -117,4 +117,10 @@ This system improves upon methods used in the IEEE paper:
 Developed by MasoudJanfeshan  
 A university AI project demonstrating practical machine vision.
 
+---
+
+### 🤝 Contributors
+- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [SanazAllahyari](https://github.com/Sanaz-all)
+
 
