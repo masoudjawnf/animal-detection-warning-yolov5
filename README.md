@@ -120,7 +120,7 @@ A university AI project demonstrating practical machine vision.
 ---
 
 ### 🤝 Contributors
-- [MasoudJanfashan](https://github.com/MasoudJanfashan)
+- [MasoudJanfashan](https://github.com/masoudjawnf)
 - [SanazAllahyari](https://github.com/Sanaz-all)
 
 
